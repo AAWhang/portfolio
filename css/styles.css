@@ -30,3 +30,10 @@ body{
   text-align:center;
   font-size:20px;
 }
+
+.textblock
+{
+  border: 2px solid yellow;
+  background-color:white;
+  font-size:20px;
+}
