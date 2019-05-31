@@ -41,7 +41,3 @@ body{
 .row{
   outline:1px solid black;
 }
-
-div[class~=col] {
-  outline:1px solid black;
-}
