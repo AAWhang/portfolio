@@ -45,3 +45,18 @@ body{
 .row{
   outline:1px solid black;
 }
+
+img {
+  border-radius: 25%;
+}
+
+.blinking{
+    animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: red;    }
+    25%{    color: orange; }
+    50%{    color: yellow; }
+    75%{    color: green;  }
+    100%{   color: blue;    }
+}

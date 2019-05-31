@@ -29,4 +29,6 @@ _{Written in html, css and bootstrap}_
 
 ### License
 
+_{All code and assets are created and owned by Aaron Whang}_
+
 Copyright (c) 2019 **_Aaron Whang_**
