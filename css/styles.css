@@ -2,3 +2,22 @@ body{
   background-image: url("../img/test.jpg");
   background-size: cover;
 }
+
+.centering
+{
+  width:100%;
+  text-align:center;
+  background-color: gray;
+}
+
+.sidebar
+{
+  width:30%;
+  float:right;
+  background-color: gray;
+}
+
+.pic-margin
+{
+  margin-left:30%;
+}
